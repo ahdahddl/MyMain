@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{bootstrap, jquery}" />
+    <file url="PROJECT" libraries="{@types/knockout, @types/knockout-amd-helpers, @types/knockout-postbox, @types/knockout-secure-binding, @types/knockout-transformations, @types/knockout.deferred.updates, @types/knockout.editables, @types/knockout.es5, @types/knockout.kogrid, @types/knockout.mapper, @types/knockout.mapping, @types/knockout.projections, @types/knockout.punches, @types/knockout.rx, @types/knockout.validation, @types/knockout.viewmodel, @types/knockstrap, bootstrap, dataTables.bootstrap, dataTables.responsive, datatables, jquery, jquery.dataTables, knockout, knockout.mapping}" />
   </component>
 </project>

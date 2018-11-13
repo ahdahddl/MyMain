@@ -10,5 +10,28 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="jquery" level="application" />
     <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="@types/knockout" level="application" />
+    <orderEntry type="library" name="@types/knockout-amd-helpers" level="application" />
+    <orderEntry type="library" name="@types/knockout-postbox" level="application" />
+    <orderEntry type="library" name="@types/knockout-secure-binding" level="application" />
+    <orderEntry type="library" name="@types/knockout-transformations" level="application" />
+    <orderEntry type="library" name="@types/knockout.deferred.updates" level="application" />
+    <orderEntry type="library" name="@types/knockout.editables" level="application" />
+    <orderEntry type="library" name="@types/knockout.es5" level="application" />
+    <orderEntry type="library" name="@types/knockout.kogrid" level="application" />
+    <orderEntry type="library" name="@types/knockout.mapper" level="application" />
+    <orderEntry type="library" name="@types/knockout.mapping" level="application" />
+    <orderEntry type="library" name="@types/knockout.projections" level="application" />
+    <orderEntry type="library" name="@types/knockout.punches" level="application" />
+    <orderEntry type="library" name="@types/knockout.rx" level="application" />
+    <orderEntry type="library" name="@types/knockout.viewmodel" level="application" />
+    <orderEntry type="library" name="@types/knockout.validation" level="application" />
+    <orderEntry type="library" name="@types/knockstrap" level="application" />
+    <orderEntry type="library" name="datatables" level="application" />
+    <orderEntry type="library" name="dataTables.responsive" level="application" />
+    <orderEntry type="library" name="knockout" level="application" />
+    <orderEntry type="library" name="knockout.mapping" level="application" />
+    <orderEntry type="library" name="jquery.dataTables" level="application" />
+    <orderEntry type="library" name="dataTables.bootstrap" level="application" />
   </component>
 </module>
